@@ -20,7 +20,7 @@ or edit an already existing embed by using:
 
 >editembed [#textchannel] [message id] [new json code]
 
-You can get your JSON Code by using: https://embedbuilder.nadekobot.me/ and just copy pasting the code it gives you. 
+You can get your JSON Code by using: [Guildbase Discord Embed Creator](https://guildbase.gg/tools/discord-embed-creator) and just copy pasting the code it gives you. 
 
 NOTICE! When using empty fields you can't leave them empty but have to but: "\u200b" in the field to make it work!
 
